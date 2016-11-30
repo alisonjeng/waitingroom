@@ -1,0 +1,14 @@
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/UnityEngine.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/UnityEditor.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alisonjeng/Documents/DESMA 157 Game Design/Waiting ROom/Temp/bin/Debug/Mono.Cecil.Mdb.dll

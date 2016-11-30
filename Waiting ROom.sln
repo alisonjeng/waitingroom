@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DE4D524D-9A34-1F6E-84EE-2A0E0A2CDEFE}") = "Waiting ROom", "Assembly-CSharp.csproj", "{B92EFDEC-40EF-0C96-BD9D-EC7E4A021346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92EFDEC-40EF-0C96-BD9D-EC7E4A021346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92EFDEC-40EF-0C96-BD9D-EC7E4A021346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92EFDEC-40EF-0C96-BD9D-EC7E4A021346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92EFDEC-40EF-0C96-BD9D-EC7E4A021346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
